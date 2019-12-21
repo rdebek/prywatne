@@ -36,18 +36,18 @@
 
 # 3. Narzędzie metasploit.
 
-![](ircpodatnosc.PNG)
+Wyszukuję podatność:
 
-Jak widać na załączonym obrazku host metasploitable ma podatność UnrealIRCd backdoor. Szukam zatem exploitów ją wykorzystujących przy pomocy metasploit:
+![](DODATKOWE.PNG)
 
-![](ustawianieparametrowexploita.PNG)
+
+![](OPJCE.PNG)
 
 Po ustawieniu odpowiednich parametrów i wykonaniu exploita otrzymuję następujący wynik:
 
-![](wynikdzialaniaexploita.PNG)
+![](WYNIKDZIALANIA.PNG)
 
-Co pozwala mi na wykonanie dowolnych komend.  
-Zdalne wyłączenie maszyny wirtualnej vulnix:
+Co pozwala mi na wykonanie dowolnych komend.
 
 ![](wylaczeniezdalne.PNG)
 
