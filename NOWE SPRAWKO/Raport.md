@@ -53,7 +53,7 @@ Zdalne wyłączenie maszyny wirtualnej vulnix:
 
 ## 3.1 Lista użytkowników SMTP na maszynie vulnix.
 
-Szukam exploitów pozwalających odnalezienie nazw użytkowników SMTP:
+Szukam exploitów odnajdujących nazwy użytkowników SMTP:
 
 ![](wyszukiwanienazw.PNG)
 
