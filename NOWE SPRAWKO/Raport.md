@@ -61,7 +61,7 @@ Przy pomocy *smtp_enum* otrzymuję listę użytkowników:
 
 ![](wynikdzialaniaszukaniauzytkownikow.PNG)
 
-## 3.2 Znajdowanie hasła do użytkownika *user*:
+## 3.2 Znajdowanie hasła do użytkownika *user* przy pomocy ataku słownikowego:
 
 ![](haslodouser.PNG)
 
