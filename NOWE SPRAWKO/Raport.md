@@ -49,7 +49,6 @@ Po ustawieniu odpowiednich parametrów i wykonaniu exploita otrzymuję następuj
 
 Co pozwala mi na wykonanie dowolnych komend.
 
-![](wylaczeniezdalne.PNG)
 
 ## 3.1 Lista użytkowników SMTP na maszynie vulnix.
 
